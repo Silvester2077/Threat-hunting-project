@@ -11,8 +11,6 @@
 | Member 2 | Alikhan | OSINT collection lead (Week 2) |
 | Member 3 | Ulan | Data processing / MISP lead (Week 3) |
 
-> Replace names, GitHub handles and roles above with your real team info.
-
 ## Project Goal
 
 Build an incremental threat-hunting dossier on **APT29 (Cozy Bear)**, applying each week's
