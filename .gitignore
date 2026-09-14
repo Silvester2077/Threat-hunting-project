@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Sensitive / large files — don't commit real credentials or raw pcaps
+*.pem
+*.key
+secrets.*
+*.pcap
