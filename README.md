@@ -7,9 +7,9 @@
 
 | Name | GitHub | Role |
 |---|---|---|
-| Member 1 | @username1 | CTI & classification lead (Week 1) |
-| Member 2 | @username2 | OSINT collection lead (Week 2) |
-| Member 3 | @username3 | Data processing / MISP lead (Week 3) |
+| Member 1 | Meiram | CTI & classification lead (Week 1) |
+| Member 2 | Alikhan | OSINT collection lead (Week 2) |
+| Member 3 | Ulan | Data processing / MISP lead (Week 3) |
 
 > Replace names, GitHub handles and roles above with your real team info.
 
