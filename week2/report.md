@@ -1,8 +1,7 @@
 # Week 2 — Data Collection Process
 
-**Topic:** APT29 (Cozy Bear) — OSINT Data Collection
-**Author(s):** _fill in name(s)_
-**Date:** _fill in date_
+**Topic:** Meduza Stealer — OSINT Data Collection
+**Author(s):** Meiram, Alikhan and Ulan
 
 ## 1. Open Source vs Closed Source Data
 
@@ -11,7 +10,7 @@ Briefly explain the difference and which sources you used.
 ## 2. OSINT Data Collection
 
 ### Shodan
-- What you searched for (e.g. infrastructure/IPs linked to reported APT29 activity)
+- What you searched for (e.g. infrastructure/IPs linked to Meduza Stealer C2 servers)
 - What you found (summarize, don't paste raw sensitive data)
 
 ### VirusTotal
@@ -38,7 +37,3 @@ Exported/raw data (CSV, JSON, etc.) stored in `data/`.
 
 - Michael Bazzell, Open Source Intelligence Techniques
 - SANS Whitepapers
-
-## 6. Screenshots
-
-See `screenshots/` folder.
