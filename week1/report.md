@@ -50,6 +50,7 @@ would otherwise stop the infection.
 - Vendor technical write-ups on Meduza Stealer (Uptycs, Cyfirma, Malwarebytes)
 - VirusTotal community notes on submitted Meduza Stealer samples
 - MITRE ATT&CK glossary of tactics/techniques terminology
+- ENISA Threat Landscape Report — used as reference for threat-actor categorization; Meduza Stealer falls under ENISA's "Malware" and "Cybercrime actors" thr+eat categories, with **financial gain** as the primary motivation (matches ENISA's impact classification: economic/digital damage)
 
 ## 5. Screenshots
 
